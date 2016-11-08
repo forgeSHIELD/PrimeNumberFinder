@@ -1,0 +1,6 @@
+D:\ForgeDev\Education\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+D:\ForgeDev\Education\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+D:\ForgeDev\Education\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+D:\ForgeDev\Education\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+D:\ForgeDev\Education\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+D:\ForgeDev\Education\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
